@@ -1,0 +1,22 @@
+{
+ "2": {
+  "py/object": "Domain.tranzactie.Tranzactie",
+  "id_entitate": "2",
+  "id_masina": "1387",
+  "id_card_client": "1265",
+  "suma_piese": 3000,
+  "suma_manopera": 1350.0,
+  "data": {
+   "py/object": "datetime.date",
+   "__reduce__": [
+    {
+     "py/type": "datetime.date"
+    },
+    [
+     "B9MBAQ=="
+    ]
+   ]
+  },
+  "ora": 1
+ }
+}
