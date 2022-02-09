@@ -1,0 +1,31 @@
+{
+ "1": {
+  "py/object": "Domain.card.Card",
+  "id_entitate": "1",
+  "nume": "neagu",
+  "prenume": "mihnea",
+  "cnp": 1020304050,
+  "data_nastere": {
+   "py/object": "datetime.datetime",
+   "__reduce__": [
+    {
+     "py/type": "datetime.datetime"
+    },
+    [
+     "B9IJBwAAAAAAAA=="
+    ]
+   ]
+  },
+  "data_inregistrare": {
+   "py/object": "datetime.datetime",
+   "__reduce__": [
+    {
+     "py/type": "datetime.datetime"
+    },
+    [
+     "B9sLCwAAAAAAAA=="
+    ]
+   ]
+  }
+ }
+}
